@@ -1,5 +1,4 @@
 # Klasifikasi Spesies Penguin (Palmer Penguins)
-Proyek Ujian Tengah Semester (UTS) Mata Kuliah Intelegensi Buatan.
 
 ## Deskripsi
 Proyek ini mengklasifikasikan 3 spesies penguin (*Adelie*, *Chinstrap*, *Gentoo*) berdasarkan ukuran morfologi tubuh (panjang paruh, kedalaman paruh, panjang sirip, massa tubuh) serta pulau pengamatan.
